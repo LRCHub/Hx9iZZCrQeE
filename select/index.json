@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "シンデレラガール",
+  "base_artist": "King & Prince",
+  "createdAt": "2025-12-17T04:04:42.219442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンデレラガール - Cinderella Girl",
+      "artist": "King",
+      "has_synced": true,
+      "path": "select/01_シンデレラガール_-_Cinderella_Girl_King.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シンデレラガール - Cinderella Girl",
+      "artist": "King & Prince",
+      "has_synced": true,
+      "path": "select/02_シンデレラガール_-_Cinderella_Girl_King_&_Prince.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シンデレラガール",
+      "artist": "King & Prince",
+      "has_synced": true,
+      "path": "select/03_シンデレラガール_King_&_Prince.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シンデレラガール",
+      "artist": "King & Prince",
+      "has_synced": true,
+      "path": "select/04_シンデレラガール_King_&_Prince.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cinderella Girl (シンデレラガール)",
+      "artist": "King & Prince",
+      "has_synced": true,
+      "path": "select/05_Cinderella_Girl_(シンデレラガール)_King_&_Prince.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シンデレラガール",
+      "artist": "King & Prince",
+      "has_synced": false,
+      "path": "select/pl_01_シンデレラガール_King_&_Prince.txt"
+    }
+  ]
+}
